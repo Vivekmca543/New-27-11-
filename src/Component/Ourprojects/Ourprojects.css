@@ -1,0 +1,4 @@
+.splide__slide img{vertical-align: bottom;width: 100%;}
+.splide__pagination__page.is-active{background:green;}
+.splide__slide{padding:0px 10px !important;}
+.splide__slide h3{font-size:18px;font-weight:600rmal;text-align:center}

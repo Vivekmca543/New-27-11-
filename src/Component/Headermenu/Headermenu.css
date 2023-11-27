@@ -1,0 +1,22 @@
+.headermenu-container{
+    top:0px;
+    left:0px;
+    width:100%;
+    height:auto;
+    z-index:10;
+    display:flex;
+    justify-content: space-between;padding:30px;position:sticky;background: rgba(0,0,0,1);}
+    .header-menu{display:flex;align-items:center;}
+    .header-menu ul{list-style-type:none;}
+    .header-menu ul li{float:left;}
+    .header-menu ul li a{
+        text-decoration:none;
+        font-size: 16px;
+        cursor:pointer;
+        font-weight: 600;
+        color: #ffffff;
+        margin-left: 13px;
+        margin-right: 13px;}
+        .content-outlet{padding-top:0px;}
+        .logo{width:176px;}
+        .footer{background:url("./../../../public/images/footer-bg.webp") repeat;padding:20px;text-align:center;color: #ffffff;}
